@@ -12,6 +12,11 @@
     "name": "Simon Cloutier",
     "email": "scr_homey@cloutier.one"
   },
+  "images": {
+    "large": "assets/images/large.jpg",
+    "small": "assets/images/small.jpg"
+  },
+  "brandColor": "#FF6600",
   "bugs": {
     "url": "https://github.com/Simon-CR/homey-silvania/issues"
   },
