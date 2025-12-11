@@ -1,0 +1,13 @@
+{
+  "id": "com.sylvania.zigbee",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "name": {
+    "en": "Sylvania Zigbee"
+  },
+  "description": {
+    "en": "Support for Sylvania Smart+ Zigbee devices."
+  },
+  "category": "lights",
+  "permissions": []
+}

@@ -1,0 +1,12 @@
+{
+  "name": "com.sylvania.zigbee",
+  "version": "1.0.0",
+  "description": "Sylvania Zigbee App for Homey",
+  "main": "app.js",
+  "dependencies": {
+    "homey-zigbeedriver": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
