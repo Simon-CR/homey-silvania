@@ -3,11 +3,16 @@
 ## Done
 
 - [x] Initialize project
+- [x] Create app structure (app.json, package.json, app.js)
+- [x] Add driver for Sylvania A19 RGBW (75564)
+- [x] Configure Zigbee capabilities and clusters
+- [x] Create README documentation
 
 ## Doing
 
-- [ ] Current task
+- [ ] Push to GitHub
 
 ## Next
 
-- [ ] Upcoming task
+- [ ] Test with physical device (when available)
+- [ ] Add support for more Sylvania devices

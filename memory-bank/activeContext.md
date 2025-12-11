@@ -2,8 +2,10 @@
 
 ## Current Goals
 
-- Goal 1
+- Document the project for future use.
+- Push code to GitHub.
+- Wait for hardware to test.
 
 ## Current Blockers
 
-- None yet
+- No Homey hardware available for testing.
