@@ -8,6 +8,13 @@
   "description": {
     "en": "Support for Sylvania Smart+ Zigbee devices."
   },
+  "author": {
+    "name": "SimonC"
+  },
+  "bugs": {
+    "url": "https://github.com/Simon-CR/homey-silvania/issues"
+  },
+  "source": "https://github.com/Simon-CR/homey-silvania",
   "category": "lights",
   "permissions": []
 }
