@@ -1,6 +1,6 @@
 {
   "id": "com.sylvania.zigbee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "sdk": 3,
   "compatibility": ">=5.0.0",
   "name": {
