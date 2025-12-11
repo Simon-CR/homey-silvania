@@ -4,7 +4,7 @@
   "description": "Sylvania Zigbee App for Homey",
   "main": "app.js",
   "dependencies": {
-    "homey-zigbeedriver": "^3.0.0"
+    "homey-zigbeedriver": "^2.2.3"
   },
   "engines": {
     "node": ">=16.0.0"
