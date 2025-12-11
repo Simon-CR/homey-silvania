@@ -6,12 +6,16 @@ This project is a Homey app to support Sylvania (LEDVANCE) Smart+ Zigbee devices
 
 ## Core Features
 
-- **Device Support**: Sylvania Smart+ A19 RGBW (75564)
+- **Device Support**:
+    - Sylvania Smart+ A19 RGBW (75564)
+    - Sylvania Smart+ Flex Strip RGBW
+    - Sylvania Smart+ Smart Plug
+    - Sylvania Smart+ BR30 RGBW
 - **Capabilities**:
     - On/Off
     - Dimming
     - RGB Color Control
-    - Color Temperature Control (142-555 mireds)
+    - Color Temperature Control
 - **Zigbee Integration**: Uses `homey-zigbeedriver` for standard Zigbee cluster communication.
 
 ## Technical Stack

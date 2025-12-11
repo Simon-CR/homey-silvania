@@ -1,0 +1,61 @@
+{
+  "name": {
+    "en": "Smart+ Flex Strip RGBW"
+  },
+  "class": "light",
+  "capabilities": [
+    "onoff",
+    "dim",
+    "light_hue",
+    "light_saturation",
+    "light_temperature",
+    "light_mode"
+  ],
+  "capabilitiesOptions": {
+    "light_temperature": {
+      "min": 153,
+      "max": 526
+    }
+  },
+  "energy": {
+    "approximated": true
+  },
+  "zigbee": [
+    {
+      "manufacturerName": "OSRAM",
+      "productId": "Flex RGBW",
+      "learnmode": {
+        "instruction": {
+          "en": "Reset the strip by switching it on and off 5 times."
+        }
+      }
+    },
+    {
+      "manufacturerName": "OSRAM",
+      "productId": "LIGHTIFY Indoor Flex RGBW",
+      "learnmode": {
+        "instruction": {
+          "en": "Reset the strip by switching it on and off 5 times."
+        }
+      }
+    },
+    {
+      "manufacturerName": "OSRAM",
+      "productId": "LIGHTIFY Flex RGBW",
+      "learnmode": {
+        "instruction": {
+          "en": "Reset the strip by switching it on and off 5 times."
+        }
+      }
+    },
+    {
+      "manufacturerName": "Sylvania",
+      "productId": "Flex RGBW",
+      "learnmode": {
+        "instruction": {
+          "en": "Reset the strip by switching it on and off 5 times."
+        }
+      }
+    }
+  ]
+}

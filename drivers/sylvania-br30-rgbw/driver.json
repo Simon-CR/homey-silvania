@@ -1,0 +1,43 @@
+{
+  "name": {
+    "en": "Smart+ BR30 RGBW"
+  },
+  "class": "light",
+  "capabilities": [
+    "onoff",
+    "dim",
+    "light_hue",
+    "light_saturation",
+    "light_temperature",
+    "light_mode"
+  ],
+  "capabilitiesOptions": {
+    "light_temperature": {
+      "min": 153,
+      "max": 526
+    }
+  },
+  "energy": {
+    "approximated": true
+  },
+  "zigbee": [
+    {
+      "manufacturerName": "Sylvania",
+      "productId": "LIGHTIFY BR RGBW",
+      "learnmode": {
+        "instruction": {
+          "en": "Reset the bulb by switching it on and off 5 times."
+        }
+      }
+    },
+    {
+      "manufacturerName": "Sylvania",
+      "productId": "BR30 RGBW",
+      "learnmode": {
+        "instruction": {
+          "en": "Reset the bulb by switching it on and off 5 times."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": {
+    "en": "Smart+ Smart Plug"
+  },
+  "class": "socket",
+  "capabilities": [
+    "onoff"
+  ],
+  "energy": {
+    "approximated": true
+  },
+  "zigbee": {
+    "manufacturerName": "Sylvania",
+    "productId": "PLUG",
+    "learnmode": {
+      "instruction": {
+        "en": "Press and hold the button on the side for 10 seconds until it clicks."
+      }
+    }
+  }
+}
