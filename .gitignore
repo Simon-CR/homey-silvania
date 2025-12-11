@@ -1,4 +1,5 @@
 node_modules/
 .homeybuild/
 .DS_Store
+.misc/
 .vscode/
