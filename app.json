@@ -9,7 +9,8 @@
     "en": "Support for Sylvania Smart+ Zigbee devices."
   },
   "author": {
-    "name": "SimonC"
+    "name": "Simon Cloutier",
+    "email": "scr_homey@cloutier.one"
   },
   "bugs": {
     "url": "https://github.com/Simon-CR/homey-silvania/issues"
