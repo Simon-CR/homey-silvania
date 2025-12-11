@@ -20,13 +20,24 @@
   "energy": {
     "approximated": true
   },
-  "zigbee": {
-    "manufacturerName": "LEDVANCE",
-    "productId": "A19 G2 RGBW",
-    "learnmode": {
-      "instruction": {
-        "en": "Reset the bulb by switching it on and off 5 times."
+  "zigbee": [
+    {
+      "manufacturerName": "LEDVANCE",
+      "productId": "A19 G2 RGBW",
+      "learnmode": {
+        "instruction": {
+          "en": "Reset the bulb by switching it on and off 5 times."
+        }
+      }
+    },
+    {
+      "manufacturerName": "Sylvania",
+      "productId": "A19 G2 RGBW",
+      "learnmode": {
+        "instruction": {
+          "en": "Reset the bulb by switching it on and off 5 times."
+        }
       }
     }
-  }
+  ]
 }
